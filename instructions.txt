@@ -1,0 +1,13 @@
+Step-1 : 
+    install openCV
+    to install openCV the command is "pip install opencv"
+Step-2 :
+    install PIL
+    to install PIL the command is "pip install PIL"
+Step-3 :
+    install Tesseract-OCR
+    download from "https://github.com/UB-Mannheim/tesseract/wiki" and install it.
+    
+step-4 : 
+    install pytesseract
+    to install pytesseract the command is "pip install pytesseract"
